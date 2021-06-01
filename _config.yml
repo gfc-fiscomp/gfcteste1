@@ -129,17 +129,17 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: GFC Recomenda
+  url: /GFC_recomenda
 
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
- # Twitter: https://twitter.com/DavidDarnes
+  Twitter: https://twitter.com/luisgcattelan
  # LinkedIn: https://www.linkedin.com/in/daviddarnes
- # GitHub: https://github.com/daviddarnes
+  GitHub: https://github.com/gfc-fiscomp
  # link: 
  # RSS: 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

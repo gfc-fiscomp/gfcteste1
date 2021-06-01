@@ -2,8 +2,7 @@
 title: Sobre GFC
 feature_text: |
   ## Grupo de Física Computacional
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
+  Grupo de graduandos interessados em Física Computacional
 excerpt: "Grupo de Física Computacional EXCERPT"
 ---
 
